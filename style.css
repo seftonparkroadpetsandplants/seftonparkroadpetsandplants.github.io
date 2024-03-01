@@ -1,0 +1,70 @@
+body {
+  background-color: #0B1215;
+  color: #F1FAFF;
+  text-align: center;
+  font-family: "Abril Fatface", serif;
+}
+
+a {
+  color: #F1FAFF;
+  text-decoration: none;
+}
+
+
+a:hover {
+  text-decoration: none;
+  color: #F1FAFF;
+}
+
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+iframe {
+  width: 100%;
+  height: 1500px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+
+
+.th {
+  background-color: #000000;
+}
+
+header {
+ background-repeat: no-repeat;
+ background-position: center; 
+ height: 300px; 
+ text-align: center; 
+ background-size: contain;
+ color: #000000; 
+ padding: 20px;
+ background-color: #0B1215;
+ background-image: url('https://i.ibb.co/jhnDKcT/Untitled-design-1.png');
+}
+
+
+footer {
+  background-color: #0B1215;
+  color: #F1FAFF;
+  text-align: center;
+  font-family: "Abril Fatface", serif;
+}
+
+.abril-fatface-regular {
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
